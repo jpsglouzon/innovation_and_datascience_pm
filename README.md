@@ -14,7 +14,7 @@ A board to research and develop a new business model or document an existing one
 
 Link to Business Model Canvas board: 
 - (english) https://trello.com/b/z9ka0PrG/business-model-canvas-board
-- (french; 4.3 copies & 31.4 views) https://trello.com/b/vXDLqb2l/tableau-du-canevas-du-modele-daffaire-business-model-canvas
+- (french; 4.3k copies & 31.4k views) https://trello.com/b/vXDLqb2l/tableau-du-canevas-du-modele-daffaire-business-model-canvas
 
 ## Data Science methodology
 
